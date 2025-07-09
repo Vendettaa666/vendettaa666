@@ -1,12 +1,14 @@
-<!-- GIF HEADER -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="Coding Animation" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Vinuxx</h1>
 <p align="center">
   💻 Laravel & Flutter Developer | 🎧 Dark music enthusiast | 🔍 Always learning
 </p>
+
+<!-- GIF HEADER -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="Coding Animation" />
+</p>
+
 
 ---
 
