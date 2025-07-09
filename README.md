@@ -13,8 +13,8 @@
 
 ### 🌟 About Me
 
-- 🔧 Currently learning: **Laravel 10**, **Flutter Bloc**, **Vue.js**, **Clean Architecture**
-- 📫 Reach me at: `vinuxx@email.com`
+- 🔧 Currently learning: **Laravel 10**, **Flutter**, **Front end**, **Back-end**
+- 📫 Reach me at: `vinnfamily666@email.com`
 - 🎵 Side hobby: Creating gloomy & ambient music vibes
 - 🧠 Fun fact: I code better with iced coffee and Metal music 🎧
 
