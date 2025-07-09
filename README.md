@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Vinuxx</h1>
+<h1 align="center">Yo 👋, I'm Vinuxx</h1>
 <p align="center">
-  💻 Laravel & Flutter Developer | 🎧 Dark music enthusiast | 🔍 Always learning
+  🚀 Just a newbie tryna code | 💻 Messin' around with Laravel & Flutter | 🎧 Into dark tunes | 🔍 Still learnin' the ropes
 </p>
 
 <!-- GIF HEADER -->
@@ -9,20 +9,18 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="Coding Animation" />
 </p>
 
-
 ---
 
 ### 🌟 About Me
 
-- 🔧 Currently working on: **Laravel 10 Stock App**
-- 🌱 Currently learning: **Flutter Bloc**, **Vue.js**, **Clean Architecture**
+- 🔧 Currently learning: **Laravel 10**, **Flutter Bloc**, **Vue.js**, **Clean Architecture**
 - 📫 Reach me at: `vinuxx@email.com`
-- 🎵 Side hobby: Creating gloomy tunes & ambient vibes
-- 🧠 Fun fact: I debug better with cold coffee and DSBM playing 🎧
+- 🎵 Side hobby: Creating gloomy & ambient music vibes
+- 🧠 Fun fact: I code better with iced coffee and Metal music 🎧
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🛠 Stack & Tools I'm Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -37,46 +35,25 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinuxx&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vinuxx&theme=radical" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinuxx&layout=compact&theme=radical" width="48%"/>
-</p>
+![Vinuxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=vendettaa666&theme=github_dark&show_icons=true)
 
 ---
 
-### 🏆 GitHub Trophies
+### 🌐 Contact Me
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vinuxx&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:vinuxx@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:vinnfamily666@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/vinuxx"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/vinuxx"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-</p>
-
----
-
-### 👁 Visitor Counter
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/vinuxx/count.svg" />
+  <a href="https://instagram.com/leoosatriaa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://tiktok.com/@vendettaa.666"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white"/></a>
+  <a href="https://discord.com/users/770242596945395712"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
+  <a href="https://open.spotify.com/user/31r7eiirhcmyuyip6bnginbwnuvu?si=ce76ca11b90444eb"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white"/></a>
 </p>
 
 ---
 
 ### 📌 Quote of the Day
 
-> “Simplicity is the soul of efficiency.” — Austin Freeman
+> "Learning is not easy, but every small step is progress."
 
 ---
-
