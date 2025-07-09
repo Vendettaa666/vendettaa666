@@ -1,5 +1,5 @@
 
-<h1 align="center">Yo 👋, I'm Vinuxx</h1>
+<h1 align="center">Hi 👋, I'm Vendetaa</h1>
 <p align="center">
   🚀 Just a newbie tryna code | 💻 Messin' around with Laravel & Flutter | 🎧 Into dark tunes | 🔍 Still learnin' the ropes
 </p>
