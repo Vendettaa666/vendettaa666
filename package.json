@@ -1,0 +1,24 @@
+{
+  "name": "vendettaa666",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Hi 👋, I'm Vendetaa</h1>\r <p align=\"center\">\r   🚀 Just a newbie tryna code | 💻 Messin' around with Laravel & Flutter | 🎧 Into dark tunes | 🔍 Still learnin' the ropes\r </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vendettaa666/vendettaa666.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Vendettaa666/vendettaa666/issues"
+  },
+  "homepage": "https://github.com/Vendettaa666/vendettaa666#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.7"
+  }
+}
