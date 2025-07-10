@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Vendetaa</h1>
+<h1 align="center">Hii 👋, I'm Vinuxx</h1>
 <p align="center">
   🚀 Just a newbie tryna code | 💻 Messin' around with Laravel & Flutter | 🎧 Into dark tunes | 🔍 Still learnin' the ropes
 </p>
@@ -61,9 +61,9 @@
 <!-- Grid Photo Section -->
 <table align="center">
   <tr>
-    <td><img src="img/gif1.gif" width="200" alt="Photo 1"/></td>
-    <td><img src="img/gif2.gif" width="200" alt="Photo 2"/></td>
-    <td><img src="img/gif3.gif" width="200" alt="Photo 3"/></td>
+    <td><img src="[https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80" width="180" alt="Photo 1](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzU3bmozeWs0YTQ5Z3BsdWJobmZ0Nm1hcWszOWprNXB5enRzeG1wNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OnsOAt1FdhL9K/giphy.gif)"/></td>
+    <td><img src="https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80" width="180" alt="Photo 2"/></td>
+    <td><img src="https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80" width="180" alt="Photo 3"/></td>
   </tr>
 </table>
 
