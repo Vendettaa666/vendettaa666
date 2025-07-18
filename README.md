@@ -1,11 +1,14 @@
 
 <h1 align="center">Hi there, I'm <span style="color:#F72C1F;">Vinuxx</span> 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72C1F&center=true&vCenter=true&width=435&lines=Just+a+newbie+tryna+code;Laravel+%7C+Flutter+%7C+Web+Enthusiast;Always+learning+something+new!;Music+%26+Code+is+my+vibe" alt="Typing SVG" />
+  🚀 Just a newbie tryna code | 💻 Messin' around with Laravel & Flutter | 🎧 Into dark tunes | 🔍 Still learnin' the ropes
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="Coding Animation" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vendettaa666&style=flat-square&color=F72C1F" alt="Profile views"/>
 </p>
 
 ---
@@ -39,8 +42,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vendettaa666&theme=github_dark&show_icons=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vendettaa666&theme=github-dark&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vendettaa666&layout=compact&theme=github_dark" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vendettaa666&theme=github-dark&hide_border=true" height="150"/>
+  
 </p>
 
 ---
@@ -62,19 +66,11 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img src="img/gif1.gif" width="180"/><br/>Coding Vibes</td>
-    <td align="center"><img src="img/gif2.gif" width="180"/><br/>Chill Mode</td>
-    <td align="center"><img src="img/gif3.gif" width="180"/><br/>Focus Time</td>
+    <td><img src="img/gif1.gif" width="180"/></td>
+    <td><img src="img/gif2.gif" width="180"/></td>
+    <td><img src="img/gif3.gif" width="180"/></td>
   </tr>
-</table>
-
----
-
-## 🚀 Featured Projects
-
-- [Nama Project 1](#) — Deskripsi singkat project.
-- [Nama Project 2](#) — Deskripsi singkat project.
-- [Nama Project 3](#) — Deskripsi singkat project.
+</table>  
 
 ---
 
@@ -84,6 +80,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vendettaa666&style=flat-square&color=F72C1F" alt="Profile views"/>
-</p>
+
