@@ -43,8 +43,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vendettaa666&theme=github_dark&show_icons=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vendettaa666&layout=compact&theme=github_dark" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vendettaa666&theme=github-dark&hide_border=true" height="150"/>
-  
 </p>
 
 ---
