@@ -63,5 +63,5 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r7eiirhcmyuyip6bnginbwnuvu" />
 </div>
 <div align="center" style="margin-bottom: 18px;">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r7eiirhcmyuyip6bnginbwnuvu&count=10" width="320" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31r7eiirhcmyuyip6bnginbwnuvu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="320" />
 </div>

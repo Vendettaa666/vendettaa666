@@ -45,7 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vendettaa666&theme=github_dark&show_icons=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vendettaa666&layout=compact&theme=github_dark" height="150"/>
   <div align="center" style="margin-top:10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vendettaa666&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vendettaa666&theme=github-dark-blue&hide_border=false" />
 </div>
 </p>
 
@@ -89,5 +89,12 @@
 
 ## 🎵 Spotify Now Playing & Recent Tracks
 <div align="center" style="margin-bottom: 18px;">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r7eiirhcmyuyip6bnginbwnuvu&count=10" width="320" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31r7eiirhcmyuyip6bnginbwnuvu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" width="200" />
 </div>
+<div align="center" style="margin-bottom: 18px;">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r7eiirhcmyuyip6bnginbwnuvu&count=10" width="200" />
+</div>
+
+<p align="center" style="font-family: 'Fira Code', 'JetBrains Mono', 'Segoe UI', monospace; font-size:15px; color:#0F52BA; margin-top:28px; letter-spacing:1px;">
+  Terima kasih sudah berkunjung! 🙏
+</p>
