@@ -19,7 +19,7 @@
   <em>
     👋 Hi, I'm Leo!<br>
     🚀 Self-taught developer passionate about Laravel, Flutter, and exploring new tech.<br>
-    🎸 Music fuels my creativity—especially dark, atmospheric, and heavy genres like NU metal & DSBM.<br>
+    🎸 Music fuels my creativity especially dark, atmospheric, and heavy genres like NU metal & DSBM.<br>
     ☕ I thrive on iced coffee and loud riffs while coding.<br>
     🤝 Always open to collaboration, learning, and tackling new challenges!
   </em>
