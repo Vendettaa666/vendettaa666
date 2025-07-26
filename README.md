@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi there, I'm <span style="color:#F72C1F;">Vinuxx</span> 👋</h1>
 <p align="center">
-  🚀 Just a newbie tryna code | 💻 Messin' around with Laravel & Flutter | 🎧 Into dark tunes | 🔍 Still learnin' the ropes
+  <b>🚀 Aspiring Developer</b> &nbsp;|&nbsp; <b>💻 Exploring Laravel &amp; Flutter</b> <br>
+  <b>🎸 Metal Music Enthusiast</b> &nbsp;|&nbsp; <b>🔍 Always Learning &amp; Growing</b>
 </p>
 
 <p align="center">
@@ -15,10 +16,11 @@
 
 ## 🌟 About Me
 
-> 🚀 I'm a passionate self-learner exploring Laravel, Flutter, and everything in between.  
-> 🎧 Music fuels my code, especially dark and ambient vibes.  
-> ☕ I code better with iced coffee and Metal music.  
-> 🧑‍💻 Always open to collaboration and new challenges!
+> 👋 Hi, I'm Leo!  
+> 🚀 Self-taught developer passionate about Laravel, Flutter, and exploring new tech.  
+> 🎸 Music fuels my creativity—especially dark, atmospheric, and heavy genres like NU metal & DSBM.  
+> ☕ I thrive on iced coffee and loud riffs while coding.  
+> 🤝 Always open to collaboration, learning, and tackling new challenges!
 
 ---
 
@@ -64,9 +66,14 @@
 
 <table align="center">
   <tr>
-    <td><img src="img/gif1.gif" width="180"/></td>
-    <td><img src="img/gif2.gif" width="180"/></td>
-    <td><img src="img/gif3.gif" width="180"/></td>
+    <td><img src="img/gif1.gif" width="180" alt="Gallery 1"/></td>
+    <td><img src="img/gif2.gif" width="180" alt="Gallery 2"/></td>
+    <td><img src="img/gif3.gif" width="180" alt="Gallery 3"/></td>
+  </tr>
+  <tr>
+    <td><img src="img/gif4.gif" width="180" alt="Gallery 4"/></td>
+    <td><img src="img/gif5.gif" width="180" alt="Gallery 5"/></td>
+    <td><img src="img/gif6.gif" width="180" alt="Gallery 6"/></td>
   </tr>
 </table>  
 
@@ -74,8 +81,6 @@
 
 ## 📌 Quote of the Day
 
-> "Learning is not easy, but every small step is progress."
+> "Learning isn't always easy, but every small step is progress. Keep going!"
 
 ---
-
-
