@@ -89,12 +89,14 @@
 
 ## 🎵 Spotify Now Playing & Recent Tracks
 <div align="center" style="margin-bottom: 18px;">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31r7eiirhcmyuyip6bnginbwnuvu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" width="200" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31r7eiirhcmyuyip6bnginbwnuvu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true" width="200" />
 </div>
 <div align="center" style="margin-bottom: 18px;">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r7eiirhcmyuyip6bnginbwnuvu&count=10" width="200" />
 </div>
 
-<p align="center" style="font-family: 'Fira Code', 'JetBrains Mono', 'Segoe UI', monospace; font-size:15px; color:#0F52BA; margin-top:28px; letter-spacing:1px;">
-  Terima kasih sudah berkunjung! 🙏
-</p>
+<div align="center" style="max-width: 500px; margin: auto;">
+  <blockquote style="font-size:0.85rem; color:#444; background: #f8f8f8; border-left: 5px solid #F72C1F; padding: 18px 24px; border-radius: 8px;">
+    Sekian Terimakasih
+  </blockquote>
+</div>
