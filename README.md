@@ -98,7 +98,7 @@
 ##### 🕑 Recently Played
 
 <div align="center" style="margin-bottom: 18px;">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r7eiirhcmyuyip6bnginbwnuvu&count=10" width="250" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r7eiirhcmyuyip6bnginbwnuvu&count=7" width="250" />
 </div>
 
 <p align="center"><b>Sekian, terima kasih 🙏</b></p>
