@@ -88,9 +88,15 @@
 ---
 
 ## 🎵 Spotify Now Playing & Recent Tracks
+
+##### 🎧 Now Playing 
+
 <div align="center" style="margin-bottom: 18px;">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31r7eiirhcmyuyip6bnginbwnuvu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true" width="250" />
 </div>
+
+##### 🕑 Recently Played
+
 <div align="center" style="margin-bottom: 18px;">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r7eiirhcmyuyip6bnginbwnuvu&count=10" width="250" />
 </div>
