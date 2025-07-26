@@ -100,7 +100,7 @@
 <h4 align="center">🎧 Now Playing</h4>
 
 <div style="margin-bottom: 18px;">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31r7eiirhcmyuyip6bnginbwnuvu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true" width="250" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31r7eiirhcmyuyip6bnginbwnuvu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0F52BA&interchange=false&bar_color=53b14f&bar_color_cover=true" width="250" />
 </div>
 
 <h4 align="center">🕑 Recently Played</h4>
@@ -109,5 +109,5 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r7eiirhcmyuyip6bnginbwnuvu&count=7" width="250" />
 </div>
 
-<p><b>Sekian, terima kasih 🙏</b></p>
+<p><b>Thank you for visiting 🙏</b></p>
 </div>
