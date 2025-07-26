@@ -1,9 +1,7 @@
 
-<h1 align="center">Hi there, I'm <span style="color:#F72C1F;">Vinuxx</span> 👋</h1>
+<h1 align="center">Hi there, I'm <span style="color:#0F52BA;">Vinuxx</span> 👋</h1>
 <p align="center">
-  <b>🚀 Aspiring Developer</b> &nbsp;|&nbsp; <b>💻 Exploring Laravel &amp; Flutter</b> <br>
-  <b>🎸 Metal Music Enthusiast</b> &nbsp;|&nbsp; <b>🔍 Always Learning &amp; Growing</b>
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=0F52BA&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Aspiring+Developer;%F0%9F%92%BB+Exploring+Laravel+%26+Flutter;%F0%9F%8E%B8+Metal+Music+Enthusiast;%F0%9F%94%8D+Always+Learning+%26+Growing" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="Coding Animation" />
@@ -11,6 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vendettaa666&style=flat-square&color=F72C1F" alt="Profile views"/>
 </p>
+
 
 ---
 
@@ -45,6 +44,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vendettaa666&theme=github_dark&show_icons=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vendettaa666&layout=compact&theme=github_dark" height="150"/>
+  <div align="center" style="margin-top:10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vendettaa666&theme=github-dark-blue&hide_border=true" />
+</div>
 </p>
 
 ---
@@ -84,3 +86,8 @@
 > "Learning isn't always easy, but every small step is progress. Keep going!"
 
 ---
+
+## 🎵 Spotify Now Playing & Recent Tracks
+<div align="center" style="margin-bottom: 18px;">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r7eiirhcmyuyip6bnginbwnuvu&count=10" width="320" />
+</div>
