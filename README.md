@@ -108,6 +108,5 @@
 <div style="margin-bottom: 18px;">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r7eiirhcmyuyip6bnginbwnuvu&count=7" width="250" />
 </div>
-
 <p><b>Thank you for visiting 🙏</b></p>
 </div>
