@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="Coding Animation" />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vendettaa666&style=flat-square&color=F72C1F" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=vendettaa666&style=flat-square&color=0F52BA" alt="Profile views"/>
 </p>
 
 ---
