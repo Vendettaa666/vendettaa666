@@ -25,10 +25,10 @@
         ☕ I thrive on iced coffee and loud riffs while coding.<br>
         🤝 Always open to collaboration, learning, and tackling new challenges!
       </em>
-    </td>
-    <td valign="top" align="center" width="50%">
       <h5>🎧 Now Playing</h5>
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31r7eiirhcmyuyip6bnginbwnuvu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0F52BA&bar_color=53b14f&bar_color_cover=true" width="230" style="max-width: 100%; border-radius: 10px;" />
+    </td>
+    <td valign="top" align="center" width="50%">
       <h5>🕑 Recently Played</h5>
       <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r7eiirhcmyuyip6bnginbwnuvu&count=7" width="230" style="max-width: 100%; border-radius: 8px;" />
     </td>
