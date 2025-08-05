@@ -12,28 +12,16 @@
 
 ---
 
-<h2 align="center">🌟 About Me</h2>
 
-<table align="center" width="100%" border="0" cellpadding="8" cellspacing="0">
-  <tr>
-    <!-- Kolom Kiri: Tentang Saya -->
-    <td valign="top" align="center" width="50%">
-      <em>
-        👋 Hi, I'm Leo!<br>
-        🚀 Self-taught developer passionate about Laravel, Flutter, and exploring new tech.<br>
-        🎸 Music fuels my creativity — especially dark, atmospheric, and heavy genres like NU metal & DSBM.<br>
-        ☕ I thrive on iced coffee and loud riffs while coding.<br>
-        🤝 Always open to collaboration, learning, and tackling new challenges!
-      </em>
-      <h5>🎧 Now Playing</h5>
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31r7eiirhcmyuyip6bnginbwnuvu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0F52BA&bar_color=53b14f&bar_color_cover=true" width="230" style="max-width: 100%; border-radius: 10px;" />
-    </td>
-    <td valign="top" align="center" width="50%">
-      <h5>🕑 Recently Played</h5>
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r7eiirhcmyuyip6bnginbwnuvu&count=7" width="230" style="max-width: 100%; border-radius: 8px;" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <em>
+    👋 Hi, I'm Leo!<br>
+    🚀 Self-taught developer passionate about Laravel, Flutter, and exploring new tech.<br>
+    🎸 Music fuels my creativity especially dark, atmospheric, and heavy genres like NU metal & DSBM.<br>
+    ☕ I thrive on iced coffee and loud riffs while coding.<br>
+    🤝 Always open to collaboration, learning, and tackling new challenges!
+  </em>
+</p>
 
 ## 
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
@@ -51,16 +39,26 @@
 </p>
 
 ---
+## 📊 GitHub Stats & 🎵 Music Vibes
 
-<h2 align="center">📈 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vendettaa666&theme=github_dark&show_icons=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vendettaa666&layout=compact&theme=github_dark" height="150"/>
-</p>
-<div align="center" style="margin-top:10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vendettaa666&theme=github-dark-blue&hide_border=false" />
-</div>
+<table width="100%" align="center" border="0" cellpadding="8" cellspacing="0">
+  <tr>
+    <td align="center" width="50%">
+      <h5>📊 GitHub Stats</h5>
+      <img src="https://github-readme-stats.vercel.app/api?username=vendettaa666&show_icons=true&theme=github_dark&hide_border=true" width="100%" style="max-width: 480px; border-radius: 10px;" />
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vendettaa666&layout=compact&theme=github_dark&hide_border=true" width="100%" style="max-width: 380px; margin-top: 8px; border-radius: 10px;" />
+      <br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vendettaa666&theme=github-dark-blue&hide_border=true" width="100%" style="max-width: 480px; margin-top: 8px; border-radius: 10px;" />
+    </td>
+    <td align="center" width="50%">
+      <h5>🎵 Music Vibes</h5>
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31r7eiirhcmyuyip6bnginbwnuvu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" width="270" style="border-radius: 12px;" />
+      <h5>🔥 Recent Tracks</h5>
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r7eiirhcmyuyip6bnginbwnuvu&count=6" width="270" style="border-radius: 8px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
