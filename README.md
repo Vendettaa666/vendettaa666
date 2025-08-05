@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there, I'm <span style="color:#0F52BA;">Vinuxx</span> 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=0F52BA&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Aspiring+Developer;%F0%9F%92%BB+Exploring+Laravel+%26+Flutter;%F0%9F%8E%B8+Metal+Music+Enthusiast;%F0%9F%94%8D+Always+Learning+%26+Growing" alt="Typing SVG" />
@@ -15,18 +14,28 @@
 
 <h2 align="center">🌟 About Me</h2>
 
-<p align="center">
-  <em>
-    👋 Hi, I'm Leo!<br>
-    🚀 Self-taught developer passionate about Laravel, Flutter, and exploring new tech.<br>
-    🎸 Music fuels my creativity especially dark, atmospheric, and heavy genres like NU metal & DSBM.<br>
-    ☕ I thrive on iced coffee and loud riffs while coding.<br>
-    🤝 Always open to collaboration, learning, and tackling new challenges!
-  </em>
-</p>
+<table align="center" width="100%" border="0" cellpadding="8" cellspacing="0">
+  <tr>
+    <!-- Kolom Kiri: Tentang Saya -->
+    <td valign="top" align="center" width="50%">
+      <em>
+        👋 Hi, I'm Leo!<br>
+        🚀 Self-taught developer passionate about Laravel, Flutter, and exploring new tech.<br>
+        🎸 Music fuels my creativity — especially dark, atmospheric, and heavy genres like NU metal & DSBM.<br>
+        ☕ I thrive on iced coffee and loud riffs while coding.<br>
+        🤝 Always open to collaboration, learning, and tackling new challenges!
+      </em>
+    </td>
+    <td valign="top" align="center" width="50%">
+      <h5>🎧 Now Playing</h5>
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31r7eiirhcmyuyip6bnginbwnuvu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0F52BA&bar_color=53b14f&bar_color_cover=true" width="230" style="max-width: 100%; border-radius: 10px;" />
+      <h5>🕑 Recently Played</h5>
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r7eiirhcmyuyip6bnginbwnuvu&count=7" width="230" style="max-width: 100%; border-radius: 8px;" />
+    </td>
+  </tr>
+</table>
 
----
-
+## 
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <p align="center">
@@ -81,7 +90,7 @@
     <td><img src="img/gif5.gif" width="180" alt="Gallery 5"/></td>
     <td><img src="img/gif6.gif" width="180" alt="Gallery 6"/></td>
   </tr>
-</table>  
+</table>
 
 ---
 
@@ -94,19 +103,5 @@
 ---
 
 <div align="center">
-
-<h2 align="center">🎵 Spotify Now Playing & Recent Tracks</h2>
-
-<h4 align="center">🎧 Now Playing</h4>
-
-<div style="margin-bottom: 18px;">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31r7eiirhcmyuyip6bnginbwnuvu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0F52BA&interchange=false&bar_color=53b14f&bar_color_cover=true" width="250" />
-</div>
-
-<h4 align="center">🕑 Recently Played</h4>
-
-<div style="margin-bottom: 18px;">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r7eiirhcmyuyip6bnginbwnuvu&count=7" width="250" />
-</div>
 <p><b>Thank you for visiting 🙏</b></p>
 </div>
