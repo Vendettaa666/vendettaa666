@@ -1,4 +1,4 @@
-* {
+    * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -6,6 +6,70 @@
     border: none;
     outline: none;
     scroll-behavior: smooth;
-    font-family: 'Poppins', sans-serif;
-}
+    font-family: "Poppins", sans-serif;
+    }
 
+    root {
+    --color-1: #ccc9dc;
+    --color-2: #324a5f;
+    --color-3: #1b2a41;
+    --color-4: #000000;
+    --background-color: #0c1821;
+    }
+
+
+    body {
+    font-family: "Segoe UI", sans-serif;
+    background-color: var(--background-color);
+    }
+
+    /* Navbar */
+    .navbar {
+    background-color: #0d6efd;
+    }
+
+    .navbar-brand,
+    .nav-link {
+    color: white !important;
+    }
+
+    /* Hero Section */
+    .hero {
+    height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        url("https://picsum.photos/1600/900") no-repeat center center/cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    }
+
+    .hero h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    }
+
+    /* About */
+    #about img {
+    border-radius: 50%;
+    max-width: 200px;
+    }
+
+    /* Portfolio */
+    .portfolio-item {
+    transition: transform 0.3s ease-in-out;
+    }
+
+    .portfolio-item:hover {
+    transform: scale(1.05);
+    }
+
+    /* Footer */
+    footer {
+    background-color: #0d6efd;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 50px;
+    }
